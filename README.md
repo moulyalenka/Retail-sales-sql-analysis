@@ -32,5 +32,11 @@ This project analyzes retail sales data using SQL to derive insights into sales 
 - DB Fiddle / Terminal
 - Git & GitHub
 
+  Key SQL Concepts Used
+- JOINs
+- GROUP BY, HAVING
+- Window Functions (if any)
+- Business Insights
+
 ## Author
 Moulya Lenka
